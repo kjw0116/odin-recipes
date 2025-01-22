@@ -1,0 +1,1 @@
+This website contains a few recipes. This project demonstrates the use of HTML basics. 
