@@ -1,0 +1,20 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+li {
+    background-color: black;
+    color: white;   
+    font-size: 24px;
+    }
+
+img{
+    width:300px;
+    height: auto;
+}
+
+.home{
+    font-size:36px;
+    color:black;    
+}
